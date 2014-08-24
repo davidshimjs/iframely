@@ -41,6 +41,7 @@
         "iconv-lite":   "0.4.3",
         "mimelib":      "0.2",
         "oauth":        "0.9",
+        "xml2js":       "0.4.4",
 
         "redis":        "0.8.3",
         "memcached":    "0.2.3",
